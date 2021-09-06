@@ -1,0 +1,5 @@
+{"typeId":"t1","dicKey":"k1","zhContent":"标题","enContent":"title"}
+{"typeId":"t1","dicKey":"k2","zhContent":"子标题","enContent":"sub title"}
+{"typeId":"n1","dicKey":"k3","zhContent":"名","enContent":"first name"}
+{"typeId":"n1","dicKey":"k4","zhContent":"姓","enContent":"last name"}
+{"typeId":"s1","dicKey":"k5","zhContent":"男","enContent":"male"}
